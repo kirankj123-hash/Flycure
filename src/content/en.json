@@ -1,0 +1,586 @@
+{
+  "mainLandingPage": {
+    "navigation": {
+      "brand": "Flycure",
+      "menus": [
+        {
+          "title": "Find Treatment",
+          "items": [
+            {
+              "icon": "package",
+              "title": "Treatments & Packages",
+              "description": "Transparent prices, inclusions/exclusions.",
+              "href": "/packages"
+            },
+            {
+              "icon": "hospital",
+              "title": "Hospitals & Doctors",
+              "description": "Accredited centers and verified specialists.",
+              "href": "/care"
+            },
+            {
+              "icon": "message-circle",
+              "title": "Get Second Opinion",
+              "description": "Upload reports for a free expert review.",
+              "href": "/estimate"
+            }
+          ]
+        },
+        {
+          "title": "Why Flycure",
+          "items": [
+            {
+              "icon": "layers-3",
+              "title": "How It Works",
+              "description": "Estimate → Agreement → Care (3 steps).",
+              "href": "/how"
+            },
+            {
+              "icon": "plane-takeoff",
+              "title": "End-to-End Logistics",
+              "description": "Visa, Hotel, Transfers, Interpreter support.",
+              "href": "/#pillars"
+            },
+            {
+              "icon": "shield-check",
+              "title": "Doctor-Led Care & Safety",
+              "description": "USPs, legal agreements, privacy compliance.",
+              "href": "/assurance"
+            }
+          ]
+        },
+        {
+          "title": "Stories & Help",
+          "items": [
+            {
+              "icon": "bookmark-check",
+              "title": "Patient Stories",
+              "description": "Real journeys by treatment and hospital.",
+              "href": "/stories"
+            },
+            {
+              "icon": "help-circle",
+              "title": "FAQs",
+              "description": "Costs, visas, payments, and aftercare.",
+              "href": "/faq"
+            },
+            {
+              "icon": "book-open-text",
+              "title": "Guides & Resources",
+              "description": "Checklists, treatment guides, and blog.",
+              "href": "/guides"
+            }
+          ]
+        }
+      ],
+      "utilities": {
+        "login": { "text": "Login", "href": "/login" },
+        "language": "EN",
+        "currency": "USD",
+        "cta": { "text": "Get Free Estimate", "href": "#inquiry" }
+      },
+      "mobileUtils": {
+        "login": { "text": "Login (Patient Portal)", "href": "/login" },
+        "whatsapp": { "text": "Chat on WhatsApp", "href": "https://wa.me/1234567890" }
+      }
+    },
+    "hero": {
+      "title": "Safe, Transparent Medical Care in India.",
+      "subtitle": "Pay hospitals directly. Legal agreements included. No hidden charges.",
+      "primaryAction": "Get Free Estimate",
+      "primaryHref": "#inquiry",
+      "secondaryAction": "See how it works",
+      "secondaryHref": "#how-it-works",
+      "features": [
+        { "text": "NABH Accredited" },
+        { "text": "Direct Pay Model" },
+        { "text": "Legal Agreements" }
+      ]
+    },
+    "gateway": {
+      "title": "Find Your Path to Better Care",
+      "cards": [
+        {
+          "icon": "stethoscope",
+          "title": "Verified Doctors",
+          "description": "Access top specialists worldwide."
+        },
+        {
+          "icon": "hospital",
+          "title": "Accredited Hospitals",
+          "description": "Only JCI or internationally certified centers."
+        },
+        {
+          "icon": "package",
+          "title": "Fixed Packages",
+          "description": "Know total costs before you commit."
+        }
+      ]
+    },
+    "highlights": {
+      "title": "Effortless Care, Powered by Trust",
+      "subtitle": "Free opinions. Clear quotes. End-to-end assistance at no cost to patients.",
+      "cards": [
+        {
+          "icon": "message-square",
+          "title": "Free Medical Opinion",
+          "description": "Get a second opinion from a verified specialist."
+        },
+        {
+          "icon": "map-pin",
+          "title": "Comprehensive Assistance",
+          "description": "Visa, accommodation, translator, and a dedicated care manager."
+        },
+        {
+          "icon": "dollar-sign",
+          "title": "Transparent Surgery Quote",
+          "description": "Upfront pricing from accredited hospitals — no hidden fees."
+        }
+      ],
+      "cta": {
+        "text": "See how it works",
+        "href": "#how-it-works"
+      },
+      "image": {
+        "src": "https://placehold.co/600x600/F6F7F9/4065B8?text=Warm+Photo%3A+Doctor+Greeting+Family",
+        "alt": "A warm photo of a doctor greeting a family in a bright hospital lobby."
+      }
+    },
+    "featureGrid": {
+      "title": "Your Gateway to World-Class Treatment",
+      "cards": [
+        {
+          "title": "Verified Specialists",
+          "description": "Access a network of highly-rated, board-certified doctors.",
+          "iconPath": "M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.286zm0 13.036h.008v.008h-.008v-.008z",
+          "link": { "href": "/", "text": "Meet Our Doctors" }
+        },
+        {
+          "title": "NABH Accredited Hospitals",
+          "description": "Only the best facilities that meet global quality standards.",
+          "iconPath": "M3.75 21h16.5M4.5 3h15M5.25 3v18m13.5-18v18M9 6.75h1.5m-1.5 3h1.5m-1.5 3h1.5m3-6h1.5m-1.5 3h1.5m-1.5 3h1.5M15 6.75h1.5m-1.5 3h1.5m-1.5 3h1.5",
+          "link": { "href": "/", "text": "Explore Facilities" }
+        },
+        {
+          "title": "Transparent Packages",
+          "description": "Fixed pricing with all necessary services included upfront.",
+          "iconPath": "M16.5 6v.75m0 3v.75m0 3v.75m0 3V18m-9-1.5h5.25m-5.25 0h5.25m-5.25 0h5.25m-5.25 0h5.25M3 4.5h15a2.25 2.25 0 012.25 2.25v10.5A2.25 2.25 0 0118 19.5H3A2.25 2.25 0 01.75 17.25V6.75A2.25 2.25 0 013 4.5z",
+          "link": { "href": "/", "text": "View All Treatments" }
+        }
+      ]
+    },
+    "journey": {
+      "title": "Your Journey in Three Simple Steps",
+      "subtitle": "We manage the complexities so you can focus on healing.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Submit Your Inquiry",
+          "description": "Share your medical needs securely."
+        },
+        {
+          "step": 2,
+          "title": "Review Your Options",
+          "description": "Get verified opinions and a transparent quote."
+        },
+        {
+          "step": 3,
+          "title": "Travel and Recover",
+          "description": "Full support from airport transfer to post-care."
+        }
+      ]
+    },
+    "trustSection": {
+      "title": "Built by Doctors. Enabled by Technology.",
+      "subtitle": "Care, not commission, leads every decision.",
+      "tiles": [
+        {
+          "icon": "user-check",
+          "title": "Doctor-Led Care",
+          "description": "Every recommendation is verified by a practicing specialist.",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "trending-up",
+          "title": "Tech-Enabled Clarity",
+          "description": "AI-assisted quote comparison for fairness and speed.",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "receipt",
+          "title": "Fixed, Transparent Packages",
+          "description": "Know total costs before you travel.",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "heart-handshake",
+          "title": "Personal Care Managers",
+          "description": "One contact for your entire journey.",
+          "cta": "Learn more"
+        }
+      ]
+    },
+    "pillarsOfCare": {
+      "title": "The Five Pillars of Worry-Free Travel",
+      "subtitle": "We manage the complexities so you can focus on healing.",
+      "pillars": [
+        {
+          "eyebrow": "Pillar One",
+          "title": "World-Class Surgical Care",
+          "description": "Access the best surgeons in internationally accredited facilities. We ensure clinical quality and safety are non-negotiable from consultation to post-operative follow-up.",
+          "imageSrc": "https://placehold.co/600x400/F6F7F9/4065B8?text=Pillar+1%3A+Surgery+Room"
+        },
+        {
+          "eyebrow": "Pillar Two",
+          "title": "Comfortable Recovery Accommodation",
+          "description": "Your healing environment matters. We arrange premium, accessible lodging with medical support nearby, tailored to your recovery stage.",
+          "imageSrc": "https://placehold.co/600x400/F6F7F9/4065B8?text=Pillar+2%3A+Recovery+Hotel"
+        },
+        {
+          "eyebrow": "Pillar Three",
+          "title": "Seamless Visa and Travel Logistics",
+          "description": "Our team handles all necessary medical visa paperwork and liaises with embassies, minimizing friction and delay for your travel.",
+          "imageSrc": "https://placehold.co/600x400/F6F7F9/4065B8?text=Pillar+3%3A+Passport+%26+Visa"
+        },
+        {
+          "eyebrow": "Pillar Four & Five",
+          "title": "Dedicated Transfer and Interpretation",
+          "description": "From airport pickups to hospital visits, private transfers are scheduled. Plus, a professional interpreter ensures clear communication between you and the clinical team.",
+          "imageSrc": "https://placehold.co/600x400/F6F7F9/4065B8?text=Pillars+4%265%3A+Transfer+%26+Interpreter"
+        }
+      ]
+    },
+    "patientStory": {
+      "quote": "Flycure didn't just arrange my surgery; they held my hand every step of the way. I felt completely secure and informed. The transparency was a game-changer.",
+      "author": "Jane D.",
+      "context": "Maldives — Successful Knee Replacement",
+      "cta": {
+        "text": "See more journeys",
+        "href": "/stories"
+      }
+    },
+    "testimonialSlider": {
+      "title": "Stories of Trust and Recovery",
+      "testimonials": [
+        {
+          "quote": "The transparent pricing was what sold me, but the personal care and continuous support from my Care Manager were life-changing. I paid the hospital directly and felt secure every step of the way.",
+          "author": "John Doe",
+          "location": "USA"
+        },
+        {
+          "quote": "From the initial consultation to post-surgery follow-up, FlyCure handled everything with professionalism and genuine care. Highly recommended for anyone considering medical tourism.",
+          "author": "Jane Smith",
+          "location": "UK"
+        },
+        {
+          "quote": "I was nervous about traveling for surgery, but the team made it so easy. The hospital was world-class, and my coordinator was always there for me. An amazing experience.",
+          "author": "Carlos Garcia",
+          "location": "Spain"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Your Questions, Answered.",
+      "questions": [
+        {
+          "question": "Is Flycure a hospital?",
+          "answer": "No, Flycure is an independent care coordination platform built by doctors to ensure ethical and transparent medical travel. We partner with accredited hospitals."
+        },
+        {
+          "question": "How much does the assistance cost me?",
+          "answer": "Our end-to-end assistance is free for patients. Our revenue is generated directly from hospitals, not commissions on your bill, maintaining trust and clinical focus."
+        },
+        {
+          "question": "What if my plans change?",
+          "answer": "We provide clear, legal cancellation and refund policies upfront. Your care manager will guide you through any changes to your treatment or travel schedule."
+        }
+      ]
+    },
+    "inquiry": {
+      "title": "Get Your Free, Confidential Estimate.",
+      "subtitle": "It takes less than 2 minutes. No commitment required.",
+      "fields": {
+        "name": {
+          "label": "Your Name",
+          "placeholder": "Your Name"
+        },
+        "email": {
+          "label": "Email Address",
+          "placeholder": "Email Address"
+        },
+        "phone": {
+          "label": "Phone Number",
+          "placeholder": "Phone Number"
+        },
+        "diagnosis": {
+          "label": "Diagnosis",
+          "placeholder": "Select diagnosis",
+          "options": [
+            "Orthopedics",
+            "Cardiology",
+            "Oncology",
+            "Neurology"
+          ]
+        }
+      },
+      "primaryCta": "Get Free Estimate",
+      "secondaryCta": {
+        "text": "Chat on WhatsApp",
+        "href": "https://wa.me/1234567890"
+      }
+    },
+    "footer": {
+      "brand": "Flycure",
+      "description": "Your trusted partner in medical travel, offering transparent, safe, and high-quality healthcare solutions in India.",
+      "sections": [
+        {
+          "heading": "Company",
+          "links": [
+            { "text": "About Us", "href": "/" },
+            { "text": "How It Works", "href": "/" },
+            { "text": "Careers", "href": "/" },
+            { "text": "Contact Us", "href": "/" }
+          ]
+        },
+        {
+          "heading": "Treatments",
+          "links": [
+            { "text": "Orthopedics", "href": "/" },
+            { "text": "Cardiology", "href": "/" },
+            { "text": "Oncology", "href": "/" },
+            { "text": "View All", "href": "/" }
+          ]
+        },
+        {
+          "heading": "Legal",
+          "links": [
+            { "text": "Privacy Policy", "href": "/" },
+            { "text": "Terms of Service", "href": "/" }
+          ]
+        }
+      ],
+      "address": {
+        "heading": "Contact",
+        "lines": ["123 Health St.", "MedCity, India 110001"]
+      },
+      "newsletter": {
+        "heading": "Subscribe to our newsletter",
+        "placeholder": "Your email address",
+        "buttonAriaLabel": "Subscribe"
+      },
+      "copyright": "© 2024 Flycure. All rights reserved.",
+      "socials": [
+        { "name": "Facebook", "href": "/" },
+        { "name": "Twitter", "href": "/" },
+        { "name": "LinkedIn", "href": "/" }
+      ]
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Healthcare, Made Transparent.",
+      "subtitle": "We help international patients access India's best care — with direct hospital payments and formal legal agreements.",
+      "primaryAction": "Get Free Estimate",
+      "primaryHref": "/#inquiry",
+      "secondaryAction": "How Flycure Works",
+      "secondaryHref": "/#how-it-works"
+    },
+    "mainContent": {
+      "title": "About Flycure",
+      "paragraphs": [
+        "Flycure was founded on a simple, yet powerful principle: healthcare should be transparent, accessible, and safe for everyone, regardless of geography. We saw a world where patients faced uncertainty, opaque pricing, and logistical nightmares when seeking medical treatment abroad. We knew there had to be a better way.",
+        "Our mission is to dismantle these barriers. We connect patients with India's top-tier, NABH-accredited hospitals and world-renowned specialists. Our unique 'Pay Hospital Directly' model ensures complete financial transparency—we never handle your money. Instead, we empower you with legally-binding agreements and fixed-price packages, eliminating hidden costs and giving you peace of mind.",
+        "We are more than a service; we are your dedicated partner. From the moment you contact us, a personal Care Manager is assigned to you, guiding you through every step of your journey. We handle the research, the vetting, the logistics, and the follow-up, so you can focus on what truly matters: your health and recovery. At Flycure, we're not just facilitating medical travel; we're building a future where world-class healthcare is within everyone's reach."
+      ]
+    },
+    "visionMission": {
+      "cards": [
+        {
+          "title": "Our Vision",
+          "description": "To create a world where every patient can access world-class healthcare with complete confidence and clarity, regardless of their location.",
+          "isBordered": false
+        },
+        {
+          "title": "Our Mission",
+          "description": "To empower patients by providing a transparent, legally secure, and compassionate pathway to India's leading hospitals and doctors.",
+          "isBordered": true
+        }
+      ]
+    },
+    "coreValues": {
+      "title": "Our Core Values",
+      "subtitle": "Principles that guide every decision and interaction at Flycure.",
+      "values": [
+        {
+          "iconPath": "M2.036 12.322a1.012 1.012 0 010-.639l4.25-7.5a1.012 1.012 0 011.736 0l4.25 7.5c.245.434.022.99-.434 1.152l-4.25 1.5a1.012 1.012 0 01-1.152 0l-4.25-1.5a1.012 1.012 0 01-.434-1.152zM12.036 12.322a1.012 1.012 0 010-.639l4.25-7.5a1.012 1.012 0 011.736 0l4.25 7.5c.245.434.022.99-.434 1.152l-4.25 1.5a1.012 1.012 0 01-1.152 0l-4.25-1.5a1.012 1.012 0 01-.434-1.152z",
+          "title": "Transparency",
+          "description": "Clear pricing, no hidden fees or surprises. Everything upfront."
+        },
+        {
+          "iconPath": "M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.286zm0 13.036h.008v.008h-.008v-.008z",
+          "title": "Safety",
+          "description": "Legal agreements and only accredited partners for your protection."
+        },
+        {
+          "iconPath": "M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z",
+          "title": "Respect",
+          "description": "Dignity, privacy, and cultural sensitivity for every patient journey."
+        },
+        {
+          "iconPath": "M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3",
+          "title": "Clinical Rigor",
+          "description": "Doctor-led decisions and expert opinions, not sales targets."
+        },
+        {
+          "iconPath": "M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z",
+          "title": "Compassion",
+          "description": "Care managers who are truly dedicated to helping you heal."
+        }
+      ]
+    },
+    "accreditedPartners": {
+      "title": "Accredited partners, verified processes.",
+      "subtitle": "We onboard only internationally recognized and accredited hospitals.",
+      "partners": ["NABH", "JCI", "Apollo", "Fortis"]
+    },
+    "ourJourney": {
+      "title": "Our Journey",
+      "subtitle": "Key milestones in our commitment to transparent healthcare.",
+      "milestones": [
+        {
+          "year": "2023",
+          "description": "First cross-border patient program launched, establishing initial partnerships."
+        },
+        {
+          "year": "2024",
+          "description": "Expanded network to 20+ partner hospitals, enhancing treatment options."
+        },
+        {
+          "year": "2025",
+          "description": "Launched comprehensive interpreter network for Arabic, Bengali, and French across key cities."
+        }
+      ]
+    },
+    "leadership": {
+      "title": "Meet Our Leadership",
+      "subtitle": "Led by clinicians, supported by experienced product operators.",
+      "members": [
+        {
+          "initials": "AK",
+          "name": "Dr. A. Kumar",
+          "title": "Chief Medical Officer",
+          "description": "Orthopedic surgeon with 20+ years of experience; leads clinical governance at Flycure, ensuring top medical standards.",
+          "social": {
+            "url": "https://linkedin.com",
+            "text": "MCI/XXXXXX"
+          }
+        },
+        {
+          "initials": "SI",
+          "name": "S. Iyer",
+          "title": "Head of Patient Experience",
+          "description": "Built patient-centric systems across leading hospitals and health-tech startups, focusing on seamless journeys.",
+          "social": {
+            "url": "https://linkedin.com"
+          }
+        },
+        {
+          "initials": "RA",
+          "name": "R. Ahmed",
+          "title": "Director, International Operations",
+          "description": "Leads Flycure's visa, travel, and interpreter network, ensuring smooth logistics for global patients worldwide.",
+          "social": {
+            "url": "https://linkedin.com"
+          }
+        }
+      ]
+    }
+  },
+  "howPage": {
+    "hero": {
+      "title": "Your Journey to Care, Simplified.",
+      "subtitle": "From your first inquiry to recovery — every step is transparent, secure, and personalized.",
+      "primaryAction": "Begin Your Journey",
+      "primaryHref": "#detailed-journey",
+      "secondaryAction": "Get Free Estimate",
+      "secondaryHref": "#faq"
+    },
+    "detailedJourney": {
+      "steps": [
+        {
+          "iconPath": "M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z",
+          "title": "Step 1: Get Your Free Estimate",
+          "description": "Share medical details and receive a cost range from multiple accredited hospitals within 24 hours.",
+          "highlightedText": "No payment required.",
+          "bottomLink": {
+            "href": "/",
+            "text": "See how pricing is verified →"
+          }
+        },
+        {
+          "iconPath": "M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
+          "title": "Step 2: Confirm Legal Agreement",
+          "description": "Flycure assists you in signing a formal hospital agreement defining costs, inclusions, and your rights.",
+          "highlightedText": "Direct payment to hospital.",
+          "bottomLink": {
+            "href": "/",
+            "text": "View sample agreement →"
+          }
+        },
+        {
+          "iconPath": "M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5",
+          "title": "Step 3: Travel, Treatment & Support",
+          "description": "We assist with visa, transfers, interpreter services, and post-care follow-up so you can focus only on recovery.",
+          "highlightedText": "24x7 assistance until recovery.",
+          "bottomLink": {
+            "href": "/",
+            "text": "Know more about aftercare →"
+          }
+        }
+      ]
+    },
+    "patientTrust": {
+      "title": "Why Patients Trust Flycure",
+      "subtitle": "Our entire process is built on principles of safety, transparency, and patient advocacy.",
+      "cards": [
+        {
+          "title": "Direct Payments Only",
+          "description": "You pay hospitals directly, not Flycure. We ensure there are no hidden fees or intermediary charges, guaranteeing financial transparency."
+        },
+        {
+          "title": "Legal Safeguards",
+          "description": "Every treatment is backed by a signed hospital agreement. This contract protects your rights and clearly defines all terms before you travel."
+        },
+        {
+          "title": "Accredited Partners",
+          "description": "We exclusively partner with internationally accredited (NABH/JCI) hospitals, ensuring you receive care that meets the highest global standards."
+        },
+        {
+          "title": "Interpreter Support",
+          "description": "Language should never be a barrier to care. We provide professional interpreter services to ensure clear communication throughout your stay."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "Who prepares the legal agreement?",
+          "answer": "The legal agreement is prepared by the hospital's legal team and is a direct contract between you and the hospital. Flycure facilitates this process to ensure transparency and that all service terms are clearly defined and fair."
+        },
+        {
+          "question": "How long does the entire process take?",
+          "answer": "The timeline varies depending on the treatment and visa requirements. Typically, from the first estimate to your travel date, the process can take anywhere from 2 to 6 weeks. We work to expedite this as much as possible."
+        },
+        {
+          "question": "Do I pay Flycure any service charge?",
+          "answer": "No, you do not pay any service charge to Flycure. Our model is built on transparency, and our service fee is covered by the hospitals in our network. The price you are quoted is the price you pay directly to the hospital."
+        }
+      ],
+      "cta": {
+        "text": "Read full FAQs",
+        "href": "/faq"
+      }
+    }
+  }
+}
