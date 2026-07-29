@@ -19,6 +19,37 @@ const config: Config = {
     },
     extend: {
       colors: {
+        // Community Fruit Ordering ("fruit-*") palette — kept isolated from the
+        // marketing site's blue/emerald scheme. See src/app/fruit/**.
+        leaf: {
+          50: '#eef6ee',
+          100: '#d7ead9',
+          300: '#84bd8b',
+          500: '#3d8a47',
+          600: '#2f6f38',
+          700: '#25592c',
+          800: '#1d461f',
+        },
+        guava: {
+          50: '#fff1f0',
+          100: '#ffe1de',
+          300: '#ff9c92',
+          500: '#f2574a',
+          600: '#d94334',
+          700: '#b03327',
+        },
+        cream: {
+          DEFAULT: '#faf6ef',
+          50: '#fdfbf7',
+          100: '#faf6ef',
+          200: '#f2ead9',
+        },
+        bark: {
+          50: '#f6f1ec',
+          300: '#c7ad95',
+          500: '#8a6a4d',
+          700: '#5c4732',
+        },
         'fly-blue': '#4065B8',
         'fly-blue-hover': '#3859A3',
         'text-primary': '#111111',
