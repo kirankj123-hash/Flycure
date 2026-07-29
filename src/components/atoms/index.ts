@@ -31,3 +31,9 @@ export type { SelectProps, OptionProps } from './Select/Select';
 
 export { TextArea } from './TextArea/TextArea';
 export type { TextAreaProps } from './TextArea/TextArea';
+
+export { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from './Card/Card';
+export type { CardProps } from './Card/Card';
+
+export { Badge } from './Badge/Badge';
+export type { BadgeProps } from './Badge/Badge';
